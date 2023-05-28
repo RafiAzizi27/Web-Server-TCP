@@ -8,6 +8,10 @@
 # Web-Server-TCP
 **Contents**
 - cara bekerja
+- video tutorial
+
+### video tutorial
+
 
 ### Cara Kerja
 Setelah server di run, ketika akan mengakses web server (dilakukan dengan menuju localhost:8000/index.html, dimana akan ditampilkan web server sederhana dengan kolom untuk menginput link video dari youtube yang ingin diputar di web server, ketika link sudah di input maka user dapat menekan tombol ‘Watch’ dan video akan di load oleh web server dan akan bisa diputar, jika link belum di input ketika user menekan tombol ‘Watch’ akan ditampilkan error.
